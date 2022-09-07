@@ -7,5 +7,5 @@ This repository is a work in progress. Its purpose is two-fold:
 
 I will be building out a variety of files, content and resources over time. When I 
 acquire improved skills and familiarity with the toolkits used in this platform, I 
-will attempt to generate indices, lists, and material which may find useful in their 
+will attempt to generate indices, lists, and material which others may find useful in their 
 own pursuit of knowledge and skill-building.
