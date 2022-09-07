@@ -1,0 +1,12 @@
+MarkDown Study Guide:
+
+This document will contain the materials gathered and researched
+in the process of improving my knowledge base and skillset in the
+preparation for the tasks required of a tech writer. Its primary focus
+will be placed on materials related to MarkDown Language and Github.
+
+Contents:
+ 1. Webpages:
+	https://www.markdownguide.org/getting-started/
+	https://document360.com/blog/markdown-for-technical-writing/
+	

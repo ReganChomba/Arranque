@@ -1,0 +1,10 @@
+GITHUB & MARKDOWN TOOLS
+
+This document will contain the materials gathered and researched
+in the process of improving my knowledge base and skillset in the
+preparation for the tasks required of a tech writer. Its primary focus
+will be placed on materials related to MarkDown Language and Github.
+
+CONTENTS:
+	1. Webpages:
+	https://www.atlassian.com/agile/kanban/boards
